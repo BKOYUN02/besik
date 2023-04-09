@@ -1,0 +1,8 @@
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\bin\Debug\OYUN_1.exe.config
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\bin\Debug\OYUN_1.exe
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\bin\Debug\OYUN_1.pdb
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\obj\Debug\OYUN_1.csproj.AssemblyReference.cache
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\obj\Debug\OYUN_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\obj\Debug\OYUN_1.csproj.CoreCompileInputs.cache
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\obj\Debug\OYUN_1.exe
+C:\Users\BERKANT\source\repos\OYUN_1\OYUN_1\obj\Debug\OYUN_1.pdb
